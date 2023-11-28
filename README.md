@@ -1,3 +1,5 @@
+Instructions:
+
 PBM, PGM, and PPM files are all image file formats that hold data corresponding to pixels of an image. Compared to formats like PNG, JPG, etc, these formats are very simplistic, offering no compression. These are simple formats that store the colors of pixels as bytes which can be read into your program.
 
 There are 3 types for a reason:
