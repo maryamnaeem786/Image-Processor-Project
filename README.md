@@ -1,10 +1,3 @@
-# COSC 2306 - Data Programming 
-## Programming Assignment - 1 ##
-
-### Due Date: February. 17, 11:59 PM ###
-
-#### The goal of this assignment is to become familiar with manipulating arrays.  You will write a class to read, write, and manipulate images.  ####
-
 PBM, PGM, and PPM files are all image file formats that hold data corresponding to pixels of an image. Compared to formats like PNG, JPG, etc, these formats are very simplistic, offering no compression. These are simple formats that store the colors of pixels as bytes which can be read into your program.
 
 There are 3 types for a reason:
